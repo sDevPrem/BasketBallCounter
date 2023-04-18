@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basket Ball</string>
+    <string name="add3">+3 Points</string>
+    <string name="add2">+2 Points</string>
+    <string name="add1">Free Throw</string>
+    <string name="reset">Reset</string>
+</resources>
